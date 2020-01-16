@@ -7,4 +7,4 @@ level: 0
 type: tool
 
 ---
-1.  REDIRECT [OWASP Nettacker](OWASP_Nettacker "wikilink")
+1.  REDIRECT [OWASP Nettacker](https://wiki.owasp.org/index.php/OWASP_Nettacker)
