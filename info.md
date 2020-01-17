@@ -7,7 +7,7 @@
 
 ### Documentation
 
-* [Wiki](https://github.com/zdresearch/OWASP-Nettacker/Wiki)
+* [Wiki](https://github.com/zdresearch/OWASP-Nettacker/wiki)
 * [Installation](https://github.com/zdresearch/OWASP-Nettacker/wiki/Installation)
 * [Usage](https://github.com/zdresearch/OWASP-Nettacker/wiki/Usage)
 
