@@ -19,7 +19,7 @@ OWASP Nettacker project was created to automate the information gathering, vulne
 
 ### Code Repository
 
-* [OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)
+* [OWASP-Nettacker](https://github.com/OWASP/Nettacker)
 
 ### Contributing
 * [Developers](https://github.com/zdresearch/OWASP-Nettacker/wiki/Developers)
