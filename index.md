@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Nettacker
 project: true
 tags: nettacker
-level: 0
+level: 2
 type: tool
 pitch: OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information Gathering. This software can be run on Windows/Linux/OSX under Python.
 ---
