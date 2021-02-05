@@ -29,4 +29,4 @@ OWASP Nettacker project was created to automate the information gathering, vulne
 
 ### Quick Demo - WebUI
 
-![webUI](https://github.com/OWASP/www-project-nettacker/blob/master/assets/images/Screencast-from-Tuesday-09-June-2020-02-32-32-IST-_online-video-cutter.com_.gif)
+![](https://github.com/OWASP/www-project-nettacker/raw/master/assets/images/Screencast-from-Tuesday-09-June-2020-02-32-32-IST-_online-video-cutter.com_.gif)
