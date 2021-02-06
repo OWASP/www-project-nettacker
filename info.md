@@ -8,6 +8,7 @@
 
 #### Audience
 * <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+
 ### Downloads
 
 * [.ZIP file](https://github.com/OWASP/Nettacker/zipball/master)
@@ -34,6 +35,10 @@
 ### Social Media
 
 * [Twitter @iotscan](https://twitter.com/iotscan)
+
+### Community
+
+* [Slack Channel](https://owasp.slack.com/messages/project-nettacker)
 
 ### Change Logs
 
