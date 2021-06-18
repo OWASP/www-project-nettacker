@@ -25,7 +25,7 @@ OWASP Nettacker project was created to automate information gathering, vulnerabi
 
 ### Quick Demo - CLI
 
-<script id="asciicast-IsQdcV2DiPsAIeM4m1SOL5DJ1" src="https://asciinema.org/a/IsQdcV2DiPsAIeM4m1SOL5DJ1.js" async></script>
+[![asciicast](https://asciinema.org/a/389414.svg)](https://asciinema.org/a/389414)
 
 ### Quick Demo - WebUI
 
