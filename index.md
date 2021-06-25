@@ -25,7 +25,7 @@ OWASP Nettacker project was created to automate information gathering, vulnerabi
 
 ### Quick Demo - CLI
 
-[![asciicast](https://asciinema.org/a/389414.svg)](https://asciinema.org/a/389414)
+[![asciicast](https://github.com/OWASP/www-project-nettacker/raw/master/assets/images/389414.svg)](https://asciinema.org/a/389414)
 
 ### Quick Demo - WebUI
 
