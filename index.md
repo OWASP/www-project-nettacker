@@ -6,27 +6,29 @@ project: true
 tags: nettacker
 level: 2
 type: tool
-pitch: OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information Gathering. This software can be run on Windows/Linux/OSX under Python.
+pitch: OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information Gathering.
 ---
 OWASP Nettacker project was created to automate information gathering, vulnerability scanning and in general to aid penetration testing engagements. Nettacker is able to run various scans using a variety of methods and generate scan reports(in HTML/TXT/JSON/CSV format) for applications and networks, including discovering open ports, services, bugs, vulnerabilities, misconfigurations, default credentials, subdomains, etc. Nettacker can be run as a command-line utility (including running as a Docker container), API, Web GUI mode or as Maltego transforms. 
 
 OWASP Nettacker is written in 100% Python and does not rely on launching any external tools.
 
-The current Nettacker version (pre-release) is [v0.0.2](https://github.com/OWASP/Nettacker/releases/tag/0.0.2) which is compatible with both Python2 and Python3.
-
+On July 5th 2023 OWASP Nettacker [v0.3.1](https://github.com/OWASP/Nettacker/releases/tag/0.0.3) was released with new modules to scan for MOVEit Transfer instances and the latest Citrix CVE-2023-24488:
  
 ### Documentation
 
-* [Wiki](https://github.com/OWASP/Nettacker/wiki)
 * [Installation](https://github.com/OWASP/Nettacker/wiki/Installation)
 * [Usage](https://github.com/OWASP/Nettacker/wiki/Usage)
+* [Wiki](https://github.com/OWASP/Nettacker/wiki)
 
 ### Code Repository
 
-* [OWASP-Nettacker](https://github.com/OWASP/Nettacker)
+* [OWASP Nettacker on GitHub](https://github.com/OWASP/Nettacker)
+
+### Docker Images
+* [OWASP Nettacker Docker Images on DockerHub](https://hub.docker.com/r/owasp/nettacker/tags)
 
 ### Contributing
-* [Developers](https://github.com/OWASP/Nettacker/wiki/Developers)
+* [Developers Guide](https://github.com/OWASP/Nettacker/wiki/Developers)
 
 ### Quick Demo - CLI
 
