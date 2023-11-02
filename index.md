@@ -12,7 +12,9 @@ OWASP Nettacker project was created to automate information gathering, vulnerabi
 
 OWASP Nettacker is written in 100% Python and does not rely on launching any external tools.
 
-On July 5th 2023 OWASP Nettacker [v0.3.1](https://github.com/OWASP/Nettacker/releases/tag/0.0.3) was released with new modules to scan for MOVEit Transfer instances and the latest Citrix CVE-2023-24488:
+On October 31st 2023 OWASP Nettacker [v0.3.2](https://github.com/OWASP/Nettacker/releases/tag/0.3.2) was released with new modules to scan networks for Critical vulnerabilities such as: Adobe Coldfusion CVE-2023-26360, Atlassian Confluence CVE-2023-22515 and Citrix Netscaler CVE-2023-4966.
+
+OWASP Nettacker can also help you find instances of critically vulnerable MOVEit Transfer and Citrix CVE-2023-24488 in your network.
  
 ### Documentation
 
