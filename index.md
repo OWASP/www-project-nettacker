@@ -21,6 +21,7 @@ OWASP Nettacker can also help you find instances of critically vulnerable MOVEit
 * [Installation](https://github.com/OWASP/Nettacker/wiki/Installation)
 * [Usage](https://github.com/OWASP/Nettacker/wiki/Usage)
 * [Wiki](https://github.com/OWASP/Nettacker/wiki)
+* **[Read More](https://www.secologist.com/open-source-projects)**
 
 ### Code Repository
 
