@@ -12,10 +12,11 @@ OWASP Nettacker project was created to automate information gathering, vulnerabi
 
 OWASP Nettacker is written in 100% Python and does not rely on launching any external tools.
 
-OWASP Nettacker can also help you find instances of critically vulnerable MOVEit Transfer, Citrix Netscaler, Ivanti ICS/EPMM services and other vulnerabilities in your network.
+OWASP Nettacker can also help you find instances of critically vulnerable MOVEit Transfer, Citrix Netscaler, Ivanti ICS/EPMM/vTM/CSA services and other vulnerabilities in your network.
 
 **Latest Releases:**
 
+* [v0.4.0](https://github.com/OWASP/Nettacker/releases/tag/0.4.0): On September 27th, 2024 OWASP Nettacker [v0.4.0](https://github.com/OWASP/Nettacker/releases/tag/0.4.0) was released with major code refactoring, PyPI package, and new modules to scan for vulnerabilities and last patched dates in Ivanti CSA/vTM, Apache OFBiz, Confluence, TeamCity, also SSL/TLS weak cipher detection, scan comparison feature, new documentation site and other improvements
 * [v0.3.3](https://github.com/OWASP/Nettacker/releases/tag/0.3.3): On January 20th, 2024 OWASP Nettacker [v0.3.3](https://github.com/OWASP/Nettacker/releases/tag/0.3.3) was released with new modules to scan for the latest Ivanti ICS CVE-2023-46805 vulnerability, Ivanti EPMM CVE-2023-35082, WordPress POST SMTP plugin CVE-2023-6875 and modules to help you find unpatched Citrix Netscaler & Ivanti devices
 * [v0.3.2](https://github.com/OWASP/Nettacker/releases/tag/0.3.2): On October 31st, 2023 OWASP Nettacker [v0.3.2](https://github.com/OWASP/Nettacker/releases/tag/0.3.2) was released with new modules to scan networks for Critical vulnerabilities such as: Adobe Coldfusion CVE-2023-26360, Atlassian Confluence CVE-2023-22515 and Citrix Netscaler CVE-2023-4966 (aka "CitrixBleed")
 * [v0.3.1](https://github.com/OWASP/Nettacker/releases/tag/0.3.1) On July 5th, 2023 OWASP Nettacker [v0.3.1](https://github.com/OWASP/Nettacker/releases/tag/0.3.1) released with new modules to scan for MOVEit Transfer instances and the latest Citrix CVE-2023-24488:
@@ -23,9 +24,9 @@ OWASP Nettacker can also help you find instances of critically vulnerable MOVEit
  
 ### Documentation
 
-* [Installation](https://github.com/OWASP/Nettacker/wiki/Installation)
-* [Usage](https://github.com/OWASP/Nettacker/wiki/Usage)
-* [Wiki](https://github.com/OWASP/Nettacker/wiki)
+* [Installation](https://nettacker.readthedocs.io/en/latest/Installation/)
+* [Usage](https://nettacker.readthedocs.io/en/latest/Usage/)
+* [Documentation](https://nettacker.readthedocs.io/en/latest/Home/)
 * **[Read More](https://www.secologist.com/open-source-projects)**
 
 ### Code Repository
@@ -36,7 +37,7 @@ OWASP Nettacker can also help you find instances of critically vulnerable MOVEit
 * [OWASP Nettacker Docker Images on DockerHub](https://hub.docker.com/r/owasp/nettacker/tags)
 
 ### Contributing
-* [Developers Guide](https://github.com/OWASP/Nettacker/wiki/Developers)
+* [Developers Guide](https://nettacker.readthedocs.io/en/latest/Developers/)
 
 ### Quick Demo - CLI
 
