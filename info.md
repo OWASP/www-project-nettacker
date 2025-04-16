@@ -1,6 +1,10 @@
 ## OWASP Nettacker
 
-![](https://raw.githubusercontent.com/OWASP/Nettacker/master/web/static/img/owasp-nettacker.png)
+![](https://raw.githubusercontent.com/OWASP/Nettacker/master/nettacker/web/static/img/owasp-nettacker.png)
+
+#### Project Level
+
+* <i class="fas fa-flask" style="color:#233e81;"></i> Lab
 
 #### Classification
 
