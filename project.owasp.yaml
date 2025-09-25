@@ -27,7 +27,8 @@ repositories:
     description: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 tags:
   - nettacker
-  - custom-tag-1
-  - custom-tag-2
+  - pentesting
+  - recon
+  - scanner
 type: tool
 website: https://owasp.org/www-project-nettacker
