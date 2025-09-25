@@ -1,0 +1,33 @@
+audience:
+  - breaker
+leaders:
+  - name: Ali Razmjoo Qalaei
+    email: ali.razmjoo@owasp.org
+    github: Ali-Razmjoo
+  - name: Arkadii Yakovets
+    email: arkadii.yakovets@owasp.org
+    github: arkid15r
+  - name: Sam Stepanyan
+    email: sam.stepanyan@owasp.org
+    github: securestep9
+  - name: Sri Harsha Gajavalli
+    email: sriharsha.g@owasp.org
+level: 3
+license:
+  - Apache-2.0
+name: OWASP Nettacker
+pitch: OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information
+  Gathering.
+repositories:
+  - name: www-project-nettacker
+    url: https://github.com/OWASP/www-project-nettacker
+    description: OWASP Foundation Web Repository
+  - name: Nettacker
+    url: https://github.com/OWASP/Nettacker
+    description: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+tags:
+  - nettacker
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-nettacker
