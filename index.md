@@ -47,4 +47,4 @@ OWASP Nettacker can also help you find instances of critically vulnerable MOVEit
 
 ![](https://github.com/OWASP/www-project-nettacker/raw/master/assets/images/Screencast-from-Tuesday-09-June-2020-02-32-32-IST-_online-video-cutter.com_.gif)
 
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=8e922d16-445a-4c63-b4cf-5152fbbaf7fd" />
+<img alt="" referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=8e922d16-445a-4c63-b4cf-5152fbbaf7fd" />
