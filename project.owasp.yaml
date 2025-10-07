@@ -1,5 +1,11 @@
 audience:
   - breaker
+community:
+  - name: project-nettacker
+    platform: slack
+    url: https://owasp.slack.com/archives/CQZGG24FQ
+    description: "OWASP Nettacker Project <https://github.com/OWASP/Nettacker>\n\nAutomated Penetration Testing Framework - Open-Source Vulnerability Scanner\
+      \ - Vulnerability Management."
 leaders:
   - name: Ali Razmjoo Qalaei
     email: ali.razmjoo@owasp.org
