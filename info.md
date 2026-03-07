@@ -31,6 +31,7 @@
 ### Docker Images
 
 Latest Dev Image
+
 * [owasp/nettacker:dev](https://hub.docker.com/layers/owasp/nettacker/dev/)
 
 Latest Release
@@ -38,14 +39,13 @@ Latest Release
 * [owasp/nettacker:latest](https://hub.docker.com/layers/owasp/nettacker/latest/)
 
 
-
 ### Contributing
-* [Developers](https://github.com/OWASP/Nettacker/wiki/Developers)
+* [Developers](https://nettacker.readthedocs.io/en/latest/Developers)
 
 ### Events & Videos
 
-* [Events](https://github.com/OWASP/Nettacker/wiki/Events)
-* [Videos](https://github.com/OWASP/Nettacker/wiki/Media)
+* [Events](https://nettacker.readthedocs.io/en/latest/Events)
+* [Videos](https://nettacker.readthedocs.io/en/latest/Media)
 
 ### Social Media
 
